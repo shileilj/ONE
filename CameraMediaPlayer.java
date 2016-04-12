@@ -1,4 +1,4 @@
-package com.greenbamboo.prescholleducation.MediaFramework;
+﻿package com.greenbamboo.prescholleducation.MediaFramework;
 
 import java.io.Serializable;
 
@@ -361,5 +361,9 @@ public class CameraMediaPlayer implements MessageListener, Serializable {
     public interface OnBufferingListener {
         void onBufferingComplete();
     }
+
+
+    shileihfliashoifasklfjaklf
+
 
 }
